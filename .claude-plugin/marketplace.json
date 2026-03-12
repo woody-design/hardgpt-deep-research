@@ -1,0 +1,25 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "hardgpt-marketplace",
+  "description": "HardGPT - Deep Research Skill for Claude",
+  "owner": {
+    "name": "Woody Li",
+    "email": "woodystudio.io@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "hardgpt",
+      "description": "Structured research skill for complex, real-world questions. Clarifies your goal first, then researches systematically from official and community sources with dual-track cross-referencing.",
+      "version": "0.3.6",
+      "source": "./",
+      "keywords": [
+        "research",
+        "deep-research",
+        "web-search",
+        "fact-checking",
+        "analysis",
+        "dual-track-research"
+      ]
+    }
+  ]
+}

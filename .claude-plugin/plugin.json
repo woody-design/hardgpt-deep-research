@@ -1,0 +1,21 @@
+{
+  "name": "hardgpt",
+  "description": "Structured research skill for complex, real-world questions. Clarifies your goal first, then researches systematically from official and community sources with dual-track cross-referencing.",
+  "version": "0.3.6",
+  "author": {
+    "name": "Woody Li",
+    "email": "woodystudio.io@gmail.com",
+    "url": "https://github.com/woody-design"
+  },
+  "homepage": "https://github.com/woody-design/hardgpt-deep-research",
+  "repository": "https://github.com/woody-design/hardgpt-deep-research",
+  "license": "CC-BY-NC-SA-4.0",
+  "keywords": [
+    "research",
+    "deep-research",
+    "web-search",
+    "fact-checking",
+    "analysis",
+    "dual-track-research"
+  ]
+}
